@@ -85,7 +85,7 @@ The testing process will be executed based on the above requirements for the Dep
 Enter test conditions here
 
 1.4 Test Design
-The test cases with steps can be viewed here: test_cases.pdf
+The test cases with steps can be viewed here: [test_cases.pdf](https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/744105153/14165184?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240219T141643Z&X-Amz-Expires=300&X-Amz-Signature=cc1e65d4dc1a65dbdc7f2ce962d5c99e3526290c73fd67a1a6008a4438a24cf5&X-Amz-SignedHeaders=host&actor_id=151565785&key_id=0&repo_id=744105153&response-content-disposition=attachment%3Bfilename%3Dtest_cases.pdf&response-content-type=application%2Fpdf)
 Functional test cases were created in Zephyr Squad based on the analysis of the specificationS
 The test cases with steps can be viewed here
 1.5 Test Implementation
