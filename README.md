@@ -100,7 +100,7 @@ Ensure that the test enviorment is set up, test data is prepared and all necessa
 Verify that the system under test is stable and ready for testing.
 
 1.7 Test Completion Exit criteria was evaluated and passed
-The traceability matrix was generated and can be found here: Forward Traceability_5_2_2024.xlsx
+The traceability matrix was generated and can be found here: [Traceability Report (Direct Only) (Jira).pdf](https://github.com/DianaBencea/Manual_Testing_Project_For_-Booking.com-.md/files/14334843/Traceability.Report.Direct.Only.Jira.pdf)
 
 Tests execution report:
 DBT-46	Filter by Review Score- PASS
