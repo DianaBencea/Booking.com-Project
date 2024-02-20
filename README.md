@@ -1,6 +1,6 @@
   The scope of the final project
   ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
-Application under test: Booking.com
+Application under test: [Booking.com](https://www.booking.com/index.ro.html?label=gen173nr-1BCAEoggI46AdIM1gEaMABiAEBmAEguAEXyAEM2AEB6AEBiAIBqAIDuALFqqmuBsACAdICJGI0YjZhZmFiLTYwMDUtNDNmZS04OGVmLTFhYmVjZjgxYTVkY9gCBeACAQ&sid=c1f4c3512d19e2a53e85850b4937f62a&keep_landing=1&sb_price_type=total&)
 
   API Documentation:
 
