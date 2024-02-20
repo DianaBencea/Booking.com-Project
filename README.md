@@ -6,7 +6,7 @@ Application under test: Booking.com
 
   Tools used: Jira , zephyr
 
-  Functional specifications :JIRA  Projects-Diana_Bencea_TMTA18-DBT board/ Booking
+  Functional specifications :[JIRA  Projects-Diana_Bencea_TMTA18-DBT board/ Booking](https://itfclasses.atlassian.net/jira/software/c/projects/DBT/boards/302?issueParent=15181)
 
 Functionalities in scope :
  1. Booking official site acces
