@@ -89,7 +89,7 @@ The test cases with steps can be viewed here
 
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary: [cycle_summary.pdf](https://itfclasses.atlassian.net/projects/DBT?selectedItem=com.thed.zephyr.je__cycle-summary)
-The complete bug reports can be found here: work-shift.bug.pdf
+The complete bug reports can be found here: [work-shift.bug.pdf](https://itfclasses.atlassian.net/jira/software/c/projects/DBT/boards/302?issueParent=15181&issueType=10004)
 Work shifts -> bug
 The following elements are needed to be ready before the test execution phase begins.
 here what needs to be ready for the test execution to begin:
@@ -100,16 +100,27 @@ Verify that the system under test is stable and ready for testing.
 The traceability matrix was generated and can be found here: [Traceability Report (Direct Only) (Jira).pdf](https://github.com/DianaBencea/Manual_Testing_Project_For_-Booking.com-.md/files/14334843/Traceability.Report.Direct.Only.Jira.pdf)
 
 Tests execution report:
+
 DBT-46	Filter by Review Score- PASS
+
 DBT-45	Filter by Meals- PASS
+
 DBT-44	 Filter Property by facilities - PASS
+
 DBT-43	Filter by property type- PASS
+
 DBT-41	Reserve for more than 10 rooms- FAIL
+
 DBT-40	Reserve for more than 10 children- FAIL
+
 DBT-38	Reserve for more than 30 perso - FAIL
+
 DBT-36	Date check-out  smaler then date check in -FAIL
+
 DBT-35	Open Stays module- PASS
+
 DBT-34	Functionality of icon from the first pag - PASS
+
 DBT-30	Login button - PASS
  
 
