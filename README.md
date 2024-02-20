@@ -1,12 +1,11 @@
-  The scope of the final project
-  ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
+The scope of the final project
+ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 Application under test: [Booking.com](https://www.booking.com/index.ro.html?label=gen173nr-1BCAEoggI46AdIM1gEaMABiAEBmAEguAEXyAEM2AEB6AEBiAIBqAIDuALFqqmuBsACAdICJGI0YjZhZmFiLTYwMDUtNDNmZS04OGVmLTFhYmVjZjgxYTVkY9gCBeACAQ&sid=c1f4c3512d19e2a53e85850b4937f62a&keep_landing=1&sb_price_type=total&)
+API Documentation:
 
-  API Documentation:
+Tools used: Jira , zephyr
 
-  Tools used: Jira , zephyr
-
-  Functional specifications :[JIRA  Projects-Diana_Bencea_TMTA18-DBT board/ Booking](https://itfclasses.atlassian.net/jira/software/c/projects/DBT/boards/302?issueParent=15181)
+Functional specifications :[JIRA  Projects-Diana_Bencea_TMTA18-DBT board/ Booking](https://itfclasses.atlassian.net/jira/software/c/projects/DBT/boards/302?issueParent=15181)
 
 Functionalities in scope :
  1. Booking official site acces
@@ -37,9 +36,7 @@ Preparation and documentation of test cases, ensuring coverage of all relevant s
 Confirmation of readliness from stakeholders or project management
 Entry criteria: smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing) testing environment is up and running
 
-1.1.3
-
-Exit criteria
+1.1.3 Exit criteria
 Test coverage goals have been achieved, ensuring that all critical functionalities and use cases have been tested
 All acceptance criteria outlined in the project requirements or user stories have been satisfied
 All high-priority defects have been resolved
@@ -91,7 +88,7 @@ The test cases with steps can be viewed here
 1.5 Test Implementation
 
 1.6 Test Execution
-Test cases are executed on the created test Cycle summary: cycle_summary.pdf
+Test cases are executed on the created test Cycle summary: [cycle_summary.pdf](https://itfclasses.atlassian.net/projects/DBT?selectedItem=com.thed.zephyr.je__cycle-summary)
 The complete bug reports can be found here: work-shift.bug.pdf
 Work shifts -> bug
 The following elements are needed to be ready before the test execution phase begins.
